@@ -15,6 +15,6 @@ Follow these steps to get the application running on your local machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Prince-dev786/todo-list-app.git
    cd todo-list-app
 
